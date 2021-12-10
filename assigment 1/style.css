@@ -1,0 +1,29 @@
+.mot{
+    border: 2px solid #ff6a00 ;
+    border-radius: 20px;
+}
+ul{
+    list-style: none;
+}
+.doo{
+    width: 60vw;
+    height: 7px;
+    background-color: #dcdee3;
+    margin-top: 3.8em;
+    border-radius: 5px;
+}
+.port{
+   
+    background-color: rgba(0, 0, 0, .7);
+    display: flex;
+    display: none;
+}
+.po:hover .port{
+    display: block;
+}
+.more:hover{
+    color: orange;
+}
+.lis:hover{
+    text-decoration: underline;
+}
